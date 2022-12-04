@@ -83,4 +83,4 @@ if (lerr == "S"):
         l = x[i]
         print("id:", l.id, "\nDescrição:", l.descricao, "\nMarca:", l.marca, "\nQuantidade:", l.quantidade, "\nValor:", l.valor, "\n\n")
 
-print("Fim do programa!")
+print("the end!")
